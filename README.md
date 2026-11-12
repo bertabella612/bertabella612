@@ -34,6 +34,12 @@ I care about getting those foundations right. Artists should be able to concentr
 
 **Less Computing · More Scrolling.**
 
+## A preview of the next release
+
+A demonstration of the planned workflow for the next release, currently in development.
+
+https://github.com/user-attachments/assets/10374a19-b988-45b5-843a-7d8f622c68a3
+
 ## A product shaped by its artists
 
 RipSaw is shaped by the people at the scroll saw. They tell me what they need, what gets in their way, and how the tools should behave. My responsibility is to turn that knowledge into software they can use with confidence.
@@ -42,9 +48,15 @@ The first release has sold **almost 100 copies**. Eleven beta testers have helpe
 
 Licensed versions are available for **Windows 10/11 and macOS**. I’m now building a substantial new release, with a particular focus on intarsia and segmentation. By popular request, I’m reopening sales of the existing release the week of November 9, 2026, while development of the next release continues.
 
-<img src="assets/ripsaw-application.png" alt="RipSaw ScrollForge showing a bird pattern with wood textures, drawing tools, and pattern checks" width="800" />
+https://github.com/user-attachments/assets/7e6392a8-4724-44b2-8987-ba3a97894c76
 
 *A view of the existing application. The next release is in development.*
+
+### Scroll saw sign making
+
+Sign making is already part of RipSaw. This demo shows what artists can do with the current application—a workflow I’m working to improve further in the next release.
+
+https://github.com/user-attachments/assets/520011df-74ac-40d7-924a-40476ad1c7cb
 
 ## Who you’d be working with
 
