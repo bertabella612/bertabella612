@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/10374a19-b988-45b5-843a-7d8f622c68a3
 
 RipSaw is shaped by the people at the scroll saw. They tell me what they need, what gets in their way, and how the tools should behave. My responsibility is to turn that knowledge into software they can use with confidence.
 
-The first release has sold **almost 100 copies**. Eleven beta testers have helped shape the application, including internationally recognized intarsia artists. Members of our community are already creating patterns with RipSaw and sharing their work.
+The first release has sold **almost 100 copies** within the first 3 weeks of release. Eleven beta testers have helped shape the application, including internationally recognized intarsia artists. Members of our community are already creating patterns with RipSaw and sharing their work.
 
 Licensed versions are available for **Windows 10/11 and macOS**. I’m now building a substantial new release, with a particular focus on intarsia and segmentation. By popular request, I’m reopening sales of the existing release the week of November 9, 2026, while development of the next release continues.
 
