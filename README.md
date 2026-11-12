@@ -42,7 +42,7 @@ The first release has sold **almost 100 copies**. Eleven beta testers have helpe
 
 Licensed versions are available for **Windows 10/11 and macOS**. I’m now building a substantial new release, with a particular focus on intarsia and segmentation. By popular request, I’m reopening sales of the existing release the week of November 9, 2026, while development of the next release continues.
 
-<img src="assets/ripsaw-application.png" alt="RipSaw ScrollForge showing a bird pattern with wood textures, drawing tools, and pattern checks" width="600" />
+<img src="assets/ripsaw-application.png" alt="RipSaw ScrollForge showing a bird pattern with wood textures, drawing tools, and pattern checks" width="800" />
 
 *A view of the existing application. The next release is in development.*
 
