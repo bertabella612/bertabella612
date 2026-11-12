@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="assets/ripsaw-banner.png" alt="RipSaw ScrollForge Pattern Maker · Less Computing, More Scrolling" width="900">
-</p>
-
 <h1 align="center">Hi, I’m Roberta.</h1>
-<p align="center"><strong>A scroller. A founder. A child of God.</strong><br>
+<p align="center"><strong>A scroller and founder of RipSaw ScrollForge.</strong><br>
 Founded on Faith · Built for a Purpose</p>
 
 I’m building **RipSaw ScrollForge®**, a specialized desktop CAD application for scroll saw artists. Licensed versions are available for **Windows 10/11 and macOS**. It began with an idea that came to me in a dream in November 2025, and a question I couldn’t leave alone: why didn’t the artists in my community have software built around the way they actually work?
